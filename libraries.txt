@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Adafruit GFX Library
+Adafruit SSD1306
+Button
+SevSeg
+SevenSegmentTM1637
+TM1637TinyDisplay
+TM1637
+TM1637 Driver
